@@ -44,19 +44,26 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ <img width="820" height="448" alt="Screenshot 2026-10-10 181911" src="https://github.com/user-attachments/assets/97b6716d-b646-403e-9a74-fc3631aa5cd4" />
+<img width="873" height="430" alt="Screenshot 2026-10-10 181924" src="https://github.com/user-attachments/assets/f558539a-3548-4018-88da-f6833b6a7b49" />
+
 
 
 b.  KCL:
- 
+ <img width="907" height="547" alt="Screenshot 2026-10-10 181716" src="https://github.com/user-attachments/assets/0f6c8c35-38df-46dd-a6a8-d3f3ed896c28" />
+<img width="756" height="563" alt="Screenshot 2026-10-10 181833" src="https://github.com/user-attachments/assets/edaf25b7-bf9c-4510-b531-00875cfb3613" />
+
 
 Calculation:
 
 a.   KVL:
- 
+ <img width="1200" height="1600" alt="WhatsApp Image 2026-10-10 at 18 03 37" src="https://github.com/user-attachments/assets/c71080fb-2a7a-4458-a8bd-663750fe54fe" />
+
 
 
 b.  KCL:
+<img width="1200" height="1600" alt="WhatsApp Image 2026-10-10 at 18 03 47" src="https://github.com/user-attachments/assets/0958097e-6e98-46e7-a61e-986b6e2e098e" />
+<img width="1200" height="926" alt="WhatsApp Image 2026-10-10 at 18 03 48" src="https://github.com/user-attachments/assets/59adfab2-cbca-4e5c-93b4-706f1f943bbf" />
 
 
 
@@ -64,11 +71,23 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+| S.NO | RESISTANCE | VOLTAGE = CURRENT X RESISTANCE |
+| :---: | :---: | :---: |
+| 1 | 16 | V1 = 0.566 X 16 = 9.06V |
+| 2 | 10 | V2 = 0.566 X 10 = 5.66V |
+| 3 | 27 | V3 = 0.566 X 27 = 15.28V |
+
+| TOTAL VOLTAGE ( V ) | 9.06 + 5.66 + 15.28 = 30.0V | 
 
 
 b.  KCL:
+| S.NO | RESISTANCE | CURRENT = VOLTAGE / RESISTANCE |
+| :---: | :---: | :---: |
+| 1 | 30 | I2 = 20.8 / 30 = 0.69A |
+| 2 | 25 | I3 = 20.8 / 25 = 0.83A |
+| 3 | 15 | I4 = 20.8 / 15 = 1.39A |
 
+| TOTAL CURRENT ( A ) | 0.69 + 0.83 + 1.39 = 2.91A |
 
 
 RESULT:
